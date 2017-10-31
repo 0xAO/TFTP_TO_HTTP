@@ -11,7 +11,7 @@
 
 //  yeah... 11pm... time for beautiful code :) coffee....i'll hope to you.
 //  without pthread...without cpplibrary...omgwtf? for openwrt / lede :)
-
+// just for booting my home servers
 
 
 #include <time.h>
